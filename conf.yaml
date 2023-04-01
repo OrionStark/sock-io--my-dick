@@ -1,0 +1,2 @@
+rooms: ['sensor1', 'sensor2', 'sensor3']
+port: 8080
